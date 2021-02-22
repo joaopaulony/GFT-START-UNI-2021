@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace exercicio_04
+namespace EX04
 {
     public class Icms : IImposto
     {
